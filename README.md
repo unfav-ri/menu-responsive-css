@@ -17,5 +17,5 @@ O código é um efeito estético ao menu feita em CSS e HTML para uma navbar web
 
 # Autor
 
-R. Gonçalves
-https://www.linkedin.com/in/unic-ri/
+R. Gonçalves  
+[LinkedIn](https://www.linkedin.com/in/unic-ri/ "Visite meu perfil no LinkedIn")
