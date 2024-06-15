@@ -9,7 +9,7 @@ O código é um efeito estético ao menu feita em CSS e HTML para uma navbar web
 
 ## Prévia
 
-<img src= "./menu-responsivo.gif">
+<img src= "https://github.com/unfav-ri/assets/blob/master/MENU-RESPONSIVE-CSS/menu-responsivo.gif">
 
 # Tecnologias utilizadas
 
